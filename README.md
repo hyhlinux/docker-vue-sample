@@ -1,6 +1,6 @@
 # docker-vue-sample
 
-> Use docker to build and release web application(base on vue-cli).
+> Use docker2 to build and release web application(base on vue-cli).
 
 ## Build Setup
 
